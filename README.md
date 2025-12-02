@@ -1,7 +1,8 @@
-# 👋 Olá! Eu sou a Vanelle Rabelo — Data Analyst
+# 👋 Olá! Eu sou a **Vanelle!**
 
 Especialista em análise de dados, criação de dashboards, modelagem, automação e desenvolvimento de soluções que transformam dados em decisão.
 
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:3b82f6,100:9333ea&height=150&section=header&text=Vanelle%20Rabelo%20Do%20Nascimento%20🚀&fontColor=ffffff&fontSize=32&animation=fadeIn)
 ---
 
 ## 🚀 Sobre mim
@@ -24,7 +25,10 @@ Especialista em análise de dados, criação de dashboards, modelagem, automaç�
 
 ### **Ferramentas**
 - Power BI  
-- Docker  
+- Docker
+- Google Collab
+- Figma
+- Canvas
 
 ---
 
@@ -37,6 +41,15 @@ Especialista em análise de dados, criação de dashboards, modelagem, automaç�
 ![Stats](https://github-readme-stats.vercel.app/api?username=Tativv&show_icons=true&theme=default)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tativv&layout=compact&theme=default)
 
+---
+
+## 📫 Contato
+- **LinkedIn:** Vanelle Rabelo  
+- **Email:** vanellerabelo@hotmail.com  
+
+---
+
+✨ Sempre aprendendo e criando projetos que gerem impacto real por meio dos dados.
 ---
 
 ## 📫 Contato
