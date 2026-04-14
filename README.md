@@ -1,10 +1,7 @@
-# 👋 Olá! Eu sou a **Vanelle!**
 <div align="center">
-  <img src=" <img src="(https://github.com/user-attachments/assets/45f461fd-08ad-4f77-9c2d-8aa79e62f4fb)
-" width="150px" style="border-radius: 50%;" alt="Minha Foto">
+  <img src="https://github.com/nellerabelo.png" width="150px" style="border-radius: 50%;">
   <h1>Vanelle Rabelo Do Nascimento 🚀</h1>
 </div>
-
 
 Especialista em análise de dados, criação de dashboards, modelagem, automação e desenvolvimento de soluções que transformam dados em decisão.
 
