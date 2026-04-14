@@ -4,7 +4,9 @@ Especialista em análise de dados, criação de dashboards, modelagem, automaç�
 
 ![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:3b82f6,100:9333ea&height=150&section=header&text=Vanelle%20Rabelo%20Do%20Nascimento%20🚀&fontColor=ffffff&fontSize=32&animation=fadeIn)
 -
-![Foto de Vanelle](https://github.com/user-attachments/assets/ca803c0f-17d6-41f7-9bf8-77907fcb434d)
+<div align="center">
+  <img src="https://github.com/nellerabelo/Nelle/edit/main/README.md" width="150px" style="border-radius: 50%;">
+</div>
 
 
 ## 🚀 Sobre mim
