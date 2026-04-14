@@ -1,18 +1,12 @@
+
 <div align="center">
-  <img src="![Foto de Vanelle](https://github.com/user-attachments/assets/aff3c548-8eb3-4fdb-af51-03c18d0c2a4c)
-" width="150px" style="border-radius: 50%;">
-  <h1>Vanelle Rabelo Do Nascimento 🚀</h1>
+  
+<img width="400" height="400" alt="foto_perfil_circular" src="https://github.com/user-attachments/assets/bd36af11-bc4f-4acf-8b03-b4d7c91e918e" />
+
+<h1>Olá me chamo Vanelle Rabelo Do Nascimento 🚀</h1>
 </div>
 
-Especialista em análise de dados, criação de dashboards, modelagem, automação e desenvolvimento de soluções que transformam dados em decisão.
-
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:3b82f6,100:9333ea&height=150&section=header&text=Vanelle%20Rabelo%20Do%20Nascimento%20🚀&fontColor=ffffff&fontSize=32&animation=fadeIn)
--
-<div align="center">
- 
-" width="150px" style="border-radius: 50%;">
-</div>
-
+📊 Analista de Dados Júnior apaixonada por transformar dados em decisões estratégicas, criação de dashboards, modelagem, automação.
 
 ## 🚀 Sobre mim
 - 📊 Data Analyst com foco em resolver problemas por meio de dados  
@@ -25,14 +19,26 @@ Especialista em análise de dados, criação de dashboards, modelagem, automaç�
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### **Linguagens**
-- Python  
-- SQL
-- HTML
-- CSS
-- JavaScript 
+### **🚀 Habilidades:**
+
+- Power BI (Dashboards interativos)
+- Excel (Análise de dados e automações)
+- SQL (Consultas e manipulação de dados)
+- Python (em aprendizado)
+
+📈 Atualmente aprendendo:
+
+- Modelagem de dados
+- Storytelling com dados
+
+📊 Projetos em destaque:
+
+- Dashboard de Vendas
+- Análise de Clientes
+- Relatórios interativos
 
 ### **Ferramentas**
+
 - Power BI  
 - Docker
 - Google Collab
@@ -47,7 +53,9 @@ Especialista em análise de dados, criação de dashboards, modelagem, automaç�
 ---
 
 ## 📊 Estatísticas do GitHub
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Tativv&show_icons=true&theme=default)
+
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tativv&layout=compact&theme=default)
 
 ---
@@ -61,10 +69,5 @@ Especialista em análise de dados, criação de dashboards, modelagem, automaç�
 ✨ Sempre aprendendo e criando projetos que gerem impacto real por meio dos dados.
 ---
 
-## 📫 Contato
-- **LinkedIn:** Vanelle Rabelo  
-- **Email:** vanellerabelo@hotmail.com  
-
----
 
 ✨ Sempre aprendendo e criando projetos que gerem impacto real por meio dos dados.
