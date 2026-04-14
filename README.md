@@ -5,6 +5,8 @@ Especialista em análise de dados, criação de dashboards, modelagem, automaç�
 ![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:3b82f6,100:9333ea&height=150&section=header&text=Vanelle%20Rabelo%20Do%20Nascimento%20🚀&fontColor=ffffff&fontSize=32&animation=fadeIn)
 ---
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f105070f-b9fb-4a2d-8ac7-f60161769718" />
+
 ## 🚀 Sobre mim
 - 📊 Data Analyst com foco em resolver problemas por meio de dados  
 - 🐍 Experiência com Python, SQL e análise exploratória  
