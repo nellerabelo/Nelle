@@ -1,12 +1,17 @@
 # 👋 Olá! Eu sou a **Vanelle!**
+<div align="center">
+  <img src=" <img src="(https://github.com/user-attachments/assets/45f461fd-08ad-4f77-9c2d-8aa79e62f4fb)
+" width="150px" style="border-radius: 50%;" alt="Minha Foto">
+  <h1>Vanelle Rabelo Do Nascimento 🚀</h1>
+</div>
+
 
 Especialista em análise de dados, criação de dashboards, modelagem, automação e desenvolvimento de soluções que transformam dados em decisão.
 
 ![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:3b82f6,100:9333ea&height=150&section=header&text=Vanelle%20Rabelo%20Do%20Nascimento%20🚀&fontColor=ffffff&fontSize=32&animation=fadeIn)
 -
 <div align="center">
-  <img src="![Foto de Vanelle](https://github.com/user-attachments/assets/45f461fd-08ad-4f77-9c2d-8aa79e62f4fb)
-
+ 
 " width="150px" style="border-radius: 50%;">
 </div>
 
