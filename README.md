@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/nellerabelo.png" width="150px" style="border-radius: 50%;">
+  <img src="![Foto de Vanelle](https://github.com/user-attachments/assets/aff3c548-8eb3-4fdb-af51-03c18d0c2a4c)
+" width="150px" style="border-radius: 50%;">
   <h1>Vanelle Rabelo Do Nascimento 🚀</h1>
 </div>
 
