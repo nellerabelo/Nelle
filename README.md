@@ -17,6 +17,14 @@
 
 ---
 
+## 📊 Projetos
+
+🔹 Análise de Vendas
+🔹 Análise Financeira
+🔹 Análise de Atendimento
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 ### **🚀 Habilidades:**
